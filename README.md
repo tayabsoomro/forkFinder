@@ -1,4 +1,4 @@
-# ForkFinder -- On the space between things
+# ForkFinder -- Taxonomical fork finding tool
 
 
 
