@@ -13,4 +13,4 @@ Fork Finder is an application that allows us to find the common ancestor in term
 	`mkdir includes && wget -O ./includes/new_taxdump.tar.gz https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/new_taxdump/new_taxdump.tar.gz && cd includes && tar -xzvf new_taxdump.tar.gz && cd ..`
 3. Use the tool:  
 	`USAGE: ./forkFinder.sh <TaxID1> <TaxID2>`
-4. Leave a feedback!
+4. Leave a feedback! :clock:
